@@ -85,23 +85,17 @@ Employee-Attrition-Analytics/
 
 ## Overall Dashboard
 
-> *(Replace this image with your dashboard screenshot.)*
-
-![Dashboard](images/dashboard.png)
+![Dashboard](images/dashboard_preview.png)
 
 ---
 
 ## Python Analysis
-
-> *(Replace this image with your Python charts screenshot.)*
 
 ![Python Analysis](images/python_visuals.png)
 
 ---
 
 ## SQL Analysis
-
-> *(Replace this image with your SQL queries/results screenshot.)*
 
 ![SQL Analysis](images/sql_queries.png)
 
